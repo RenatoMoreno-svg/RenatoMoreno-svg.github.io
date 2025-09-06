@@ -14,46 +14,46 @@ import {
 import { FaDiscord, FaWhatsapp } from "react-icons/fa";
 
 const projetos = [
-  // {
-  //   id: "p1",
-  //   titulo: "Dashboard Financeiro",
-  //   categoria: "Web",
-  //   descricao: "Dashboard com visualizações ricas e foco na eficiência de decisões.",
-  //   imagem: "https://images.unsplash.com/photo-1556157382-97eda2d62296?q=80&w=1400&auto=format&fit=crop",
-  //   ferramentas: ["Figma", "Design System", "Acessibilidade"],
-  // },
-  // {
-  //   id: "p2",
-  //   titulo: "App de Bem-estar",
-  //   categoria: "Mobile",
-  //   descricao: "App de hábitos com microinterações e jornadas personalizadas.",
-  //   imagem: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=1400&auto=format&fit=crop",
-  //   ferramentas: ["Figma", "Protótipo", "Motion"],
-  // },
-  // {
-  //   id: "p3",
-  //   titulo: "Sistema de Marca",
-  //   categoria: "Branding",
-  //   descricao: "Sistema de identidade, tokens e guidelines para múltiplos produtos.",
-  //   imagem: "https://images.unsplash.com/photo-1508923567004-3a6b8004f3d1?q=80&w=1400&auto=format&fit=crop",
-  //   ferramentas: ["Tokens", "Guidelines", "Componentes"],
-  // },
-  // {
-  //   id: "p4",
-  //   titulo: "App de Delivery",
-  //   categoria: "Mobile",
-  //   descricao: "Fluxo de pedidos otimizado com foco em conversão e retenção.",
-  //   imagem: "https://images.unsplash.com/photo-1519741491144-4f0c8b98f8a8?q=80&w=1400&auto=format&fit=crop",
-  //   ferramentas: ["Pesquisa", "Protótipos", "Usabilidade"],
-  // },
-  // {
-  //   id: "p5",
-  //   titulo: "Site de Marketing",
-  //   categoria: "Web",
-  //   descricao: "Landing page focada em conversão com testes A/B e copy otimizada.",
-  //   imagem: "https://images.unsplash.com/photo-1492724441997-5dc865305da7?q=80&w=1400&auto=format&fit=crop",
-  //   ferramentas: ["Figma", "A/B", "Analytics"],
-  // },
+  {
+    id: "p1",
+    titulo: "Dashboard Financeiro",
+    categoria: "Web",
+    descricao: "Dashboard com visualizações ricas e foco na eficiência de decisões.",
+    imagem: "https://images.unsplash.com/photo-1556157382-97eda2d62296?q=80&w=1400&auto=format&fit=crop",
+    ferramentas: ["Figma", "Design System", "Acessibilidade"],
+  },
+  {
+    id: "p2",
+    titulo: "App de Bem-estar",
+    categoria: "Mobile",
+    descricao: "App de hábitos com microinterações e jornadas personalizadas.",
+    imagem: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=1400&auto=format&fit=crop",
+    ferramentas: ["Figma", "Protótipo", "Motion"],
+  },
+  {
+    id: "p3",
+    titulo: "Sistema de Marca",
+    categoria: "Branding",
+    descricao: "Sistema de identidade, tokens e guidelines para múltiplos produtos.",
+    imagem: "https://images.unsplash.com/photo-1508923567004-3a6b8004f3d1?q=80&w=1400&auto=format&fit=crop",
+    ferramentas: ["Tokens", "Guidelines", "Componentes"],
+  },
+  {
+    id: "p4",
+    titulo: "App de Delivery",
+    categoria: "Mobile",
+    descricao: "Fluxo de pedidos otimizado com foco em conversão e retenção.",
+    imagem: "https://images.unsplash.com/photo-1519741491144-4f0c8b98f8a8?q=80&w=1400&auto=format&fit=crop",
+    ferramentas: ["Pesquisa", "Protótipos", "Usabilidade"],
+  },
+  {
+    id: "p5",
+    titulo: "Site de Marketing",
+    categoria: "Web",
+    descricao: "Landing page focada em conversão com testes A/B e copy otimizada.",
+    imagem: "https://images.unsplash.com/photo-1492724441997-5dc865305da7?q=80&w=1400&auto=format&fit=crop",
+    ferramentas: ["Figma", "A/B", "Analytics"],
+  },
 ];
 
 const categorias = ["Todos", "Web", "Mobile", "Branding"];
